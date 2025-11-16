@@ -22,10 +22,3 @@ Paste these URLs into:
 - App Store Connect → *Additional Information* → *Terms of Use URL*
 
 ---
-
-## 📁 Repository structure
-
-/knitting
- ├── index.md       # Privacy Policy
- ├── terms.md       # Terms of Use
- ├── README.md
