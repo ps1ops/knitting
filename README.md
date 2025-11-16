@@ -13,8 +13,8 @@ These pages are published using **GitHub Pages** and are used in the App Store C
 
 After enabling GitHub Pages, your documents will be available at URLs such as:
 
-- Privacy Policy: `https://YOUR_USERNAME.github.io/knitting-policy/`
-- Terms of Use: `https://YOUR_USERNAME.github.io/knitting-policy/terms`
+- Privacy Policy: `https://ps1ops.github.io/knitting/`
+- Terms of Use: `https://ps1ops.github.io/knitting/terms`
 
 Replace `YOUR_USERNAME` with your actual GitHub username.
 
