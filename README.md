@@ -16,8 +16,6 @@ After enabling GitHub Pages, your documents will be available at URLs such as:
 - Privacy Policy: `https://ps1ops.github.io/knitting/`
 - Terms of Use: `https://ps1ops.github.io/knitting/terms`
 
-Replace `YOUR_USERNAME` with your actual GitHub username.
-
 Paste these URLs into:
 
 - App Store Connect → **App Information** → *Privacy Policy URL*
@@ -27,3 +25,7 @@ Paste these URLs into:
 
 ## 📁 Repository structure
 
+/knitting
+ ├── index.md       # Privacy Policy
+ ├── terms.md       # Terms of Use
+ ├── README.md
